@@ -17,6 +17,7 @@ End‑to‑End MATLAB Implementation: written and tested on MATLAB R2024b (v 2
 Reproducible Demo: includes sample datasets and scripts for immediate experimentation.
 
 
+
 🛠 Requirements
 
 MATLAB R2024b (24.2)
@@ -40,6 +41,7 @@ If you use PACMAN in your research, please cite our accompanying paper:
 }
 
 
+
 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -55,8 +57,11 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
 
+
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+
 
 🙏 Acknowledgements
 MATLAB® and the MATLAB logo are registered trademarks of MathWorks, Inc.
